@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FakeCalculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="expression">expression</string>
+    <string name="no_suitable_activity">No suitable activity</string>
+    <string name="illegal_expression">Illegal expression</string>
+</resources>
